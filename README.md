@@ -1,6 +1,7 @@
 # Description
 This is a PowerShell script for automation of routine tasks done after fresh installations of Windows 10. This is mearly a This is merely a set of tweaks and configurations to suit my needs.
 
+I do not take any responsibility is the script brakes your computer, summons a demons, call alien's or any other crazy idea you may think of.
 
 -------
 
