@@ -35,3 +35,5 @@ If you just want to run the script with the default preset, download and unpack 
 **Q:** I've run the script and it broke my computer.
 **A:** I don't care. You ran this script at your own risk 
 
+## Credits
+Google search engine. Sorry, lost most of the examples URL's i used for this script. 
